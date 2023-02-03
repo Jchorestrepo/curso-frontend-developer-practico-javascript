@@ -94,8 +94,6 @@ function renderProducts(arr) {
         const imagenicocarrito = document.createElement('img');
 
 
-
-
         productCard.classList.add('product-card');
 
 
